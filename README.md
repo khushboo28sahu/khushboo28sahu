@@ -1,10 +1,9 @@
-<video width="320" height="240" autoplay>
-  <source src="images/Khushboo Sahu.mp4" type="video/mp4">
-</video> 
-<!--<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
+<!--<video width="320" height="240" autoplay>
+   <source src="images/Khushboo Sahu.mp4" type="video/mp4"> -->
+<!-- </video>  -->
+<img src="images/Khushboo Sahu.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm Khushboo Sahu</h1>
 <h3 align="center">Researcher, Developer, & AI Enthusiast</h3>
-<center> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif",alt="centered image", width="100%" /> </center>
 
 
 - 🔭 I’m currently working on **Smart Radio Environment, 6G**
@@ -57,7 +56,9 @@ width="40" height="40"/>
 
 <h3 align="center">Stars</h3>
 <div align="center">
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo28sahu&layout=compact&theme=dark" alt=khushboo28sahu />
+  <img align="center"  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo28sahu&layout=compact&theme=dark" alt=khushboo28sahu />
+  <img align = "right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif",alt="centered image", width="50%" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
