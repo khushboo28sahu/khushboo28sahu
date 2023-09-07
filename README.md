@@ -11,7 +11,7 @@
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1emf9DUr1lHilvsHRpm92SkhMC3C1PMAs/view?usp=drive_link"> CV </a>**
 
 <!---👨‍💻 All of my projects are available at **https://khushboo28sahu.github.io/**-->
-<div> <a href="https://www.linkedin.com/in/khushboo-sahu28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center"> <a href="https://www.linkedin.com/in/khushboo-sahu28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/khushboo28sahu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <!-- </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,15 +53,15 @@ width="40" height="40"/>
 
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo28sahu&layout=compact&theme=dark" alt=khushboo28sahu />
+<h3 align="center">Stars</h3>
+<div align="center">
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo28sahu&layout=compact&theme=dark" alt=khushboo28sahu />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-
 <a href="https://github.com/khushboo28sahu">
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushboo28sahu&theme=2077" height="180em" />
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushboo28sahu&theme=2077" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushboo28sahu&theme=2077" height="180em" />
