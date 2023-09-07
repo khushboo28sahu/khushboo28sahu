@@ -8,14 +8,14 @@
 - 🔭 I’m currently working on **Smart Radio Environment, 6G**
 - 👯 I’m looking to collaborate on **Deep learning, Machine learning, Wireless communication, and Healthcare projects**
 - 🌱 I’m currently learning **Explainable AI, Generative Models, etc.**
-- 👨‍💻 All of my projects are available at **https://khushboo28sahu.github.io/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1emf9DUr1lHilvsHRpm92SkhMC3C1PMAs/view?usp=drive_link**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1emf9DUr1lHilvsHRpm92SkhMC3C1PMAs/view?usp=drive_link"> CV </a>**
 
+<!---👨‍💻 All of my projects are available at **https://khushboo28sahu.github.io/**-->
 <div> <a href="https://www.linkedin.com/in/khushboo-sahu28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/khushboo28sahu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<!-- </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khushboo-sahu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="khushboo-sahu28" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/khushboo-sahu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="khushboo-sahu28" height="30" width="40" /></a></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
