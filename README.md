@@ -56,8 +56,8 @@ width="40" height="40"/>
 
 <h3 align="center">Stars</h3>
 <div align="center">
-  <img align="center"  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo28sahu&layout=compact&theme=dark" alt=khushboo28sahu />
-  <img align = "right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif",alt="centered image", width="50%" />
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo28sahu&layout=compact&theme=dark" alt=khushboo28sahu />
+<!--   <img align = "right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif",alt="centered image", width="50%" /> -->
 
 </div>
 
