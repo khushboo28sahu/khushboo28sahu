@@ -6,8 +6,8 @@
 <h3 align="center">Researcher, Developer, & AI Enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Smart Radio Environment, 6G**
-- 👯 I’m looking to collaborate on **Deep learning, Machine learning, Wireless communication, and Healthcare projects**
+- 🔭 I’m currently working on **Drone communications and Drone swarms**
+- 👯 I’m looking to collaborate on **Deep learning, Machine learning, Wireless communication, Healthcare projects, and Drones-based project**
 - 🌱 I’m currently learning **Explainable AI, Generative Models, etc.**
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1emf9DUr1lHilvsHRpm92SkhMC3C1PMAs/view?usp=drive_link"> CV </a>**
 
